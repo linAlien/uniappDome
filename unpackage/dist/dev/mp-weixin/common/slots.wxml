@@ -1,0 +1,5 @@
+<import src="/components/uni-nav-bar/uni-nav-bar.vue.wxml" />
+<import src="/components/uni-drawer/uni-drawer.vue.wxml" />
+
+<template name="24a7cc0e-default-24a7cc0e-1"><view style="padding:30rpx;" class="_view 24a7cc0e"><view class="_view 24a7cc0e uni-title"><view class="_view 24a7cc0e drawer_title">用户的基本信息</view><view class="_view 24a7cc0e drawer_list"><view class="_ul 24a7cc0e"><view class="_li 24a7cc0e"></view><view class="_li 24a7cc0e"></view><view class="_li 24a7cc0e"></view><view class="_li 24a7cc0e"></view><view class="_li 24a7cc0e"></view><view class="_li 24a7cc0e"></view><view class="_li 24a7cc0e"></view><view class="_li 24a7cc0e"></view><view class="_li 24a7cc0e"></view></view></view></view></view></template>
+
