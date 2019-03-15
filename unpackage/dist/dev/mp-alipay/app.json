@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/page1/page1",
+    "pages/page2/page2",
+    "pages/page3/page3",
+    "pages/callInterface/callInterface",
+    "pages/mpvue-echarts/mpvue-echarts"
+  ],
+  "window": {
+    "defaultTitle": "uni-app",
+    "titleBarColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "textColor": "#ffffff",
+    "selectedColor": "#39cffc",
+    "backgroundColor": "#afe5ff",
+    "items": [
+      {
+        "pagePath": "pages/index/index",
+        "name": "首页",
+        "icon": "static/h1.ico",
+        "activeIcon": "static/h2.ico"
+      },
+      {
+        "pagePath": "pages/page1/page1",
+        "name": "page1",
+        "icon": "static/h3.ico",
+        "activeIcon": "static/h4.ico"
+      },
+      {
+        "pagePath": "pages/page2/page2",
+        "name": "page2",
+        "icon": "static/h5.ico",
+        "activeIcon": "static/h6.ico"
+      },
+      {
+        "pagePath": "pages/page3/page3",
+        "name": "page3",
+        "icon": "static/h7.ico",
+        "activeIcon": "static/h8.ico"
+      }
+    ]
+  }
+}

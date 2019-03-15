@@ -1,0 +1,1 @@
+<import src="/common/slots.axml"/><template name="8ca0e482"><view class="_view uni-status-bar {{ h[ 0 ].rcl }}" style="{{ h[ 0 ].st }}"><template name="default$4"><view class="_view"></view></template><template is="{{ s_default || 'default$4' }}" data="{{ ...$root[ s ], $root, _t: _t || '', _c: c }}"/></view></template>

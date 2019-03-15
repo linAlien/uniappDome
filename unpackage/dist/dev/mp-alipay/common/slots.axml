@@ -1,0 +1,3 @@
+
+<template name="default_0" parent="5072b001"><view class="_view drawer-box"><view class="_view drawer_title"><view class="_view my_icon"><image class="_img" src="../../static/img/customerHL.png" width="60px" height="60px"></image></view><view class="_view my_name"><view class="_view my_name_box"><view class="_view">name</view><view class="_view">等级</view></view></view><view class="_view copyreader"></view></view><view class="_view drawer_list"></view></view></template>
+

@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/page1/page1",
+    "pages/page2/page2",
+    "pages/page3/page3",
+    "pages/callInterface/callInterface",
+    "pages/mpvue-echarts/mpvue-echarts"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {},
+  "tabBar": {
+    "color": "#ffffff",
+    "selectedColor": "#39cffc",
+    "borderStyle": "black",
+    "backgroundColor": "#afe5ff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/h1.ico",
+        "selectedIconPath": "static/h2.ico",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/page1/page1",
+        "iconPath": "static/h3.ico",
+        "selectedIconPath": "static/h4.ico",
+        "text": "page1"
+      },
+      {
+        "pagePath": "pages/page2/page2",
+        "iconPath": "static/h5.ico",
+        "selectedIconPath": "static/h6.ico",
+        "text": "page2"
+      },
+      {
+        "pagePath": "pages/page3/page3",
+        "iconPath": "static/h7.ico",
+        "selectedIconPath": "static/h8.ico",
+        "text": "page3"
+      }
+    ]
+  },
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "uniapp"
+}

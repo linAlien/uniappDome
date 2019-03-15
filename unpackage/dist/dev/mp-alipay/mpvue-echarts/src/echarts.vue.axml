@@ -1,0 +1,1 @@
+<template name="9599a832"><canvas a:if="{{ h[ 0 ]._if }}" class="_canvas ec-canvas {{ h[ 0 ].rcl }} data-v-00f2414b" id="{{ h[ 0 ][ 'id' ] }}" canvasId="{{ h[ 0 ][ 'canvasId' ] }}" data-cid="{{ _c || c }}" data-hid="{{ 0 }}" onTouchStart="_pe" onTouchMove="_pe" onTouchEnd="_pe" onError="_pe"></canvas></template>

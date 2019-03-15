@@ -1,0 +1,2 @@
+<template name="7614efe5"><view class="_view {{ h[ 0 ].rcl }}">page3</view></template>
+<template is="7614efe5" data="{{ ...$root['0'], $root }}"/>

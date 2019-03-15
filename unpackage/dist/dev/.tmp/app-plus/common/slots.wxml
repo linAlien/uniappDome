@@ -1,0 +1,12 @@
+<import src="/components/uni-nav-bar/uni-nav-bar.vue.wxml" />
+<import src="/components/uni-drawer/uni-drawer.vue.wxml" />
+<import src="/components/messageshow.vue.wxml" />
+<import src="/components/chatinput.vue.wxml" />
+<import src="/components/mpvue-echarts/src/echarts.vue.wxml" />
+<import src="/components/uni-icon.vue.wxml" />
+<import src="/components/uni-status-bar/uni-status-bar.vue.wxml" />
+<import src="/components/uni-icon/uni-icon.vue.wxml" />
+<import src="/common/slots.wxml" />
+
+<template name="5072b001-default-5072b001-1"><view class="_view 5072b001 drawer-box"><view class="_view 5072b001 drawer_title"><view class="_view 5072b001 my_icon"><image src="../../static/img/customerHL.png" width="60px" height="60px" class="_img 5072b001"></image></view><view class="_view 5072b001 my_name"><view class="_view 5072b001 my_name_box"><view class="_view 5072b001">name</view><view class="_view 5072b001">等级</view></view></view><view class="_view 5072b001 copyreader"></view></view><view class="_view 5072b001 drawer_list"></view></view></template>
+

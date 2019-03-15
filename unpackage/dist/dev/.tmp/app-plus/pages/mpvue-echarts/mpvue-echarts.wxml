@@ -1,0 +1,2 @@
+<import src="./mpvue-echarts.vue.wxml" />
+    <template is="52a66b3d" data="{{ ...$root['0'], $root }}"/>
